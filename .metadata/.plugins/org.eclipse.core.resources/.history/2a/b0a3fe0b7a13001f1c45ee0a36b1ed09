@@ -1,0 +1,16 @@
+package com.OrangeHRMApplication_WepPages_Test;
+
+import java.io.IOException;
+
+import com.OrangeHRMApplication_WebPages.LoginPage;
+
+public class LoginPage_Test extends LoginPage
+{
+
+	
+	public void loginpage_Validatiion_Test() throws IOException {
+		
+		LoginPage loginpage=new LoginPage();
+		loginpage.OHRMApplication_LoginPage_Loginpannel_Validation();
+	}
+}

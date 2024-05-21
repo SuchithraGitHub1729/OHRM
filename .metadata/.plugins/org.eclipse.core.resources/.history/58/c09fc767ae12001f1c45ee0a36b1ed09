@@ -1,0 +1,31 @@
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is matched-PASS
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the Add employee page is matched-PASS
+[main] INFO Log - The EmployeeId is :-0056
+[main] INFO Log - The expected text of the personal details page isPersonal Details
+[main] INFO Log - The Actual text of Personal details page isPersonal Details
+[main] INFO Log - The text of the personal details page is matched-PASS
+[main] INFO Log - The first name of the Employee is matched:-PASS
+[main] INFO Log - The middle name of the Employee is matched:-PASS
+[main] INFO Log - The Last name of the Employee is matched:-PASS
+[main] INFO Log - The employee Id is matched-PASS
+[main] INFO Log - The EmployeeId is :-0057
+[main] INFO Log - The expected text of the personal details page is
+[main] INFO Log - The Actual text of Personal details page isPersonal Details
+[main] INFO Log - The text of the personal details page is Not matched-FAIL
+[main] INFO Log - The first name of the Employee is matched:-PASS
+[main] INFO Log - The middle name of the Employee is matched:-PASS
+[main] INFO Log - The Last name of the Employee is matched:-PASS
+[main] INFO Log - The employee Id is matched-PASS
+[main] INFO Log - The EmployeeId is :-0058
+[main] INFO Log - The expected text of the personal details page is
+[main] INFO Log - The Actual text of Personal details page isPersonal Details
+[main] INFO Log - The text of the personal details page is Not matched-FAIL
+[main] INFO Log - The first name of the Employee is matched:-PASS
+[main] INFO Log - The middle name of the Employee is matched:-PASS
+[main] INFO Log - The Last name of the Employee is matched:-PASS
+[main] INFO Log - The employee Id is matched-PASS
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.OrangeHRMApplication_Testcases.OHRM_LoginFunctionality_Validation_TestNG">
+        <methods>
+          <include name="applicationLaunch"/>
+          <include name="oHRM_Login_Test"/>
+          <include name="applicationClose"/>
+        </methods>
+      </class> <!-- com.OrangeHRMApplication_Testcases.OHRM_LoginFunctionality_Validation_TestNG -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

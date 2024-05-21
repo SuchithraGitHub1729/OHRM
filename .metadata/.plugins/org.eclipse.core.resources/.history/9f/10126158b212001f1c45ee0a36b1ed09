@@ -1,0 +1,76 @@
+# OrangeHRM Application LogIn Page LogIn Panel WebElement Locator is ID
+ #    Key = value(property of the WebElement)
+logInPageLogInPanelProperty=logInPanelHeading
+
+# OrangeHRM Application LogIn Page UserName WebElement Locator is ID
+logInPageUserNameProperty=txtUsername
+
+# OrangeHRM Application LogIn Page Password WebElement Locator is name
+logInPagepasswordProperty=txtPassword
+
+# OrangeHRM Application LogIn Page Login WebElement Locator is id
+logInPageLogInButtonProperty=btnLogin
+
+# OrangeHRM Application HomePage Page WelComeAdmin WebElement Locator is partialLinkText
+orangeHRMApplicationHomePageWelComeAdminProperty=Welcome
+
+# OrangeHRM Application HomePage Page LogOut WebElement Locator is LinkText
+homePagelogOutProperty=Logout
+
+#OrangeHRM application login page invalid credentials web element locator is id
+loginpage_InvalidCredentials_Property=spanMessage
+
+# OrangeHRNM application HomePage PIM WebElement locator is linkText
+homePagepimProperty=PIM
+
+# OrangeHRM application HomePage Add Employee WebElement locator is linkText
+homePageAddEmployeeProperty=Add Employee
+
+# OrangeHRM application Add employee page Add Employee WebElement locator is xpath
+text_addEmployeeProperty=/html/body/div[1]/div[3]/div/div[1]/h1
+
+# OrangeHRM application Add employee page First Name WebElement locator is id
+add_EmployeefirstNameProperty=firstName
+
+# OrangeHRM application Add employee page Middle Name WebElement locator is id
+add_EmployeemiddleNameProperty=middleName
+
+# OrangeHRM application Add employee page Last Name WebElement locator is id
+add_EmployeelastNameProperty=lastName
+
+# OrangeHRM application Add employee page Employee Id WebElement locator is id
+empId_AddEmployeeProperty=employeeId
+
+# OrangeHRM application Add employee page Save WebElement locator is id
+add_Employee_saveButtonProperty=btnSave
+
+# OrangeHRM application Personal Details page Personal Details WebElement locator is xpath
+personaldetailsPageTextproperty=/html/body/div[1]/div[3]/div/div[2]/div[1]/h1
+
+# OrangeHRM application Personal Details page First Name WebElement locator is id
+personal_Details_fistnameTextProperty=personal_txtEmpFirstName
+
+# OrangeHRM application Personal Details page Middle Name WebElement locator is id
+personal_Details_middlenameTextProperty=personal_txtEmpMiddleName
+
+# OrangeHRM application Personal Details page Last Name WebElement locator is id
+personal_Details_lastnameTextProperty=personal_txtEmpLastName
+
+# OrangeHRM application Personal Details page Employee Id WebElement locator is id
+personal_Details_employeeidProperty=personal_txtEmployeeId
+
+# OrangeHRM application Employee List page Employee Information WebElement locator is xpath
+employeelistPagetextProperty=/html/body/div[1]/div[3]/div[1]/div[1]/h1
+
+# OrangeHRM application Homepage Employee List  webElement locator is id
+employeeListElementProperty=menu_pim_viewEmployeeList
+
+# OrangeHRM application Employee List page Employee Information Block  locator is xpath
+employeeTableListBlockProperty=/html/body/div[1]/div[3]/div[2]/div/form
+
+# OrangeHRM application Employee List page Employee list rows  locator is tagname
+employeelistsPageRowsProperty=tr
+
+# OrangeHRM application Employee List page Employee list RowofCells  locator is tagname
+employeeListPageCellsProperty=td
+

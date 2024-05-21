@@ -1,0 +1,202 @@
+package com.OrangeHRmApplication_Testcases;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Properties;
+
+import org.apache.commons.io.FileUtils;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.logging.Logs;
+import org.testng.annotations.Test;
+
+import com.Utility.Log;
+
+public class OHRM_LoginFunctionality_Validation_TestNG extends com.BaseTset.BaseTest
+{
+	FileInputStream file;
+	XSSFWorkbook workbook;
+	XSSFSheet sheet;
+	FileInputStream OrangeHRMApplication_PropertiesFile;
+	Properties properties;
+	
+	@Test(priority=1,description="OHRM Applicatiion loginpage validatiion")
+	public void loginpage_Validation() throws IOException {
+		
+		file=new FileInputStream("./src/main/java/com/OrangeHRM_TestdataFiles/OrangeHRM_LogInTestDataFile1.xlsx");
+		workbook=new XSSFWorkbook(file);
+		sheet=workbook.getSheet("LogInTestData");
+		
+		Row row=sheet.getRow(1);
+		
+		Cell rowofcell=row.getCell(0);
+		String expected_loginpageText=rowofcell.getStringCellValue();
+		
+		System.out.println("The expected loginpage text is-"+expected_loginpageText);
+		Log.info("The expected loginpage text is-"+expected_loginpageText);
+		
+		OrangeHRMApplication_PropertiesFile=new FileInputStream("./src/main/java/com/Config/OrangeHRMApplication_PropertiesFile.properties");
+		properties=new Properties();
+		properties.load(OrangeHRMApplication_PropertiesFile);
+		
+		By loginpanelProperty=By.id(properties.getProperty("logInPageLogInPanelProperty"));
+		WebElement loginpanel=driver.findElement(loginpanelProperty);
+		String actual_loginpageText=loginpanel.getText();
+
+		System.out.println("The Atual loginpage text is-"+actual_loginpageText);
+		Log.info("The Atual loginpage text is-"+actual_loginpageText);
+		
+		Cell actual_Text_testResult=row.createCell(2);
+		actual_Text_testResult.setCellValue(actual_loginpageText);
+		
+		if(actual_loginpageText.equalsIgnoreCase(expected_loginpageText)) {
+			
+			System.out.println("The text of the loginpage is matched-PASS");
+			Log.info("The text of the loginpage is matched-PASS");
+			
+			Cell text_Test_Result=row.createCell(3);
+			text_Test_Result.setCellValue("The text of the loginpage is matched-PASS");
+
+		}
+		else
+		{
+			System.out.println("The text of the loginpage is Not matched-FAIL");
+			Log.info("The text of the loginpage is Not matched-FAIL");
+			
+			Cell text_Test_Result=row.createCell(3);
+			text_Test_Result.setCellValue("The text of the loginpage is Not matched-FAIL");
+		}
+		rowofcell=row.getCell(4);
+		String expected_loginpageTitle=rowofcell.getStringCellValue();
+		
+		String actual_loginpageTitle=driver.getTitle();
+		
+		Cell actual_title_result=row.createCell(5);
+		actual_title_result.setCellValue(actual_loginpageTitle);
+		
+		if(actual_loginpageTitle.equals(expected_loginpageTitle)) {
+			System.out.println("The title of the loginpage is matched-PASS");
+			Log.info("The title of the loginpage is matched-PASS");
+			
+			Cell testResult_Title=row.createCell(6);
+			testResult_Title.setCellValue("The title of the loginpage is matched-PASS");
+					
+		}
+		else
+		{
+	         System.out.println("The title of the loginpage is Not matched-FAIL");
+	         Log.info("The title of the loginpage is Not matched-FAIL");
+	         
+	         Cell testResult_Title=row.createCell(6);
+			testResult_Title.setCellValue("The title of the loginpage is Not matched-FAIL");             
+		}
+
+
+	}
+	
+	@Test(priority=2,description="OHRM applicatiion Login Test")
+	public void oHRM_Login_Test() throws IOException 
+	{
+		
+		int rowcount=sheet.getLastRowNum();
+		
+		for(int rowindex=1;rowindex<rowcount;rowindex++) 
+		{
+			Row row1=sheet.getRow(rowindex);
+			try {
+		
+		int rowofcellCount=row1.getLastCellNum();
+		
+		Cell rowofcell1=row1.getCell(7);
+		String usernameTestdata=rowofcell1.getStringCellValue();
+		
+		By usernameProperty=By.id(properties.getProperty("logInPageUserNameProperty"));
+		WebElement username=driver.findElement(usernameProperty);
+		username.sendKeys(usernameTestdata);
+		
+		rowofcell1=row1.getCell(8);
+		String passwordTestdata=rowofcell1.getStringCellValue();
+		
+		By passwordProperty=By.name(properties.getProperty("logInPagepasswordProperty"));
+		WebElement password=driver.findElement(passwordProperty);
+		password.sendKeys(passwordTestdata);
+		
+		By loginbuttonProperty=By.name(properties.getProperty("logInPageLogInButtonProperty"));
+		WebElement loginButton =driver.findElement(loginbuttonProperty);
+		loginButton.click();
+		rowofcell1=row1.getCell(9);
+		String expected_HomepageText=rowofcell1.getStringCellValue();
+		
+		By welComeAdminProperty=By.partialLinkText(properties.getProperty("orangeHRMApplicationHomePageWelComeAdminProperty"));
+		WebElement welComeAdmin=driver.findElement(welComeAdminProperty);
+		
+		String actual_HomepageText=welComeAdmin.getText();
+		
+		Cell actualHomepageTextResult=row1.createCell(10);
+		actualHomepageTextResult.setCellValue(actual_HomepageText);
+		
+		if(actual_HomepageText.contains(expected_HomepageText)) {
+			System.out.println("The text of the homepage is found-PASS");
+			Log.info("The text of the homepage is found-PASS");
+			
+			Cell homepagetextResult=row1.createCell(11);
+			homepagetextResult.setCellValue("The text of the homepage is found-PASS");
+		}
+		
+		welComeAdmin.click();
+		
+		Thread.sleep(5000); 
+		
+		By logOutProperty=By.linkText(properties.getProperty("homePagelogOutProperty"));
+		WebElement logOut=driver.findElement(logOutProperty);
+		logOut.click();
+		
+		
+			
+		}
+			catch(Exception suchi) 
+			{
+				
+				Cell homepagetextResult=row1.createCell(11);
+				homepagetextResult.setCellValue("The text of the homepage is Not found-FAIL");
+			
+				File screenshot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		    	
+		    	FileUtils.copyFile(screenshot, new File("./OrangeHRM_ErrorScreenShots/"+"Rowindex"+" "+rowindex+" - "+"Inavalid Credentials"+" "+"Screenshot"+".png"));
+		    	
+		    	//<span id="spanMessage">Invalid credentials</span>
+		    	
+		    	Cell rowofcell1=row1.getCell(1);
+		    	String expected_text_invalid=rowofcell1.getStringCellValue();
+		    	
+		    	By invalidCredentialsProperty=By.id(properties.getProperty("loginpage_InvalidCredentials_Property"));
+		    	WebElement invalidCredentials=driver.findElement(invalidCredentialsProperty);
+		    	String actual_text_invalid=invalidCredentials.getText();
+		    	
+		    	if(actual_text_invalid.equals(expected_text_invalid)) {
+		    		System.out.println("The text of the loginpage for invalid credentials is matched-PASS");
+		    		Log.info("The text of the loginpage for invalid credentials is matched-PASS");
+		    	}
+		    	else
+		    	{
+		    		System.out.println("The text of the loginpage for invalid credentials is Not matched-FAIL");
+		    		Log.info("The text of the loginpage for invalid credentials is Not matched-FAIL");
+		    	}
+		}
+			
+		FileOutputStream testresultfile=new FileOutputStream("./src/main/java/com/OrangeHRM_TestResultFiles/OHRM_Login_TestResult.xlsx");
+		workbook.write(testresultfile);		
+			
+     }
+		
+}	
+}
+	

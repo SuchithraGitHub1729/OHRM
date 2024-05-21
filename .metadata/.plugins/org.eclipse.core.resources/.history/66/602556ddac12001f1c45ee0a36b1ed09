@@ -1,0 +1,506 @@
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is-LOGIN Panel
+[main] INFO Log - The Atual loginpage text is-LOGIN Panel
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is Not matched-FAIL
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the loginpage for invalid credentials is Not matched-FAIL
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is-LOGIN Panel
+[main] INFO Log - The Atual loginpage text is-LOGIN Panel
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is Not matched-FAIL
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the loginpage for invalid credentials is Not matched-FAIL
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is-LOGIN Panel
+[main] INFO Log - The Atual loginpage text is-LOGIN Panel
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is Not matched-FAIL
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the loginpage for invalid credentials is Not matched-FAIL
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is Not matched-FAIL
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the Add employee page is matched-PASS
+[main] INFO Log - The EmployeeId is :-0047
+[main] INFO Log - The expected text of the personal details page isPersonal Details
+[main] INFO Log - The Actual text of Personal details page isPersonal Details
+[main] INFO Log - The text of the personal details page is matched-PASS
+[main] INFO Log - The first name of the Employee is matched:-PASS
+[main] INFO Log - The middle name of the Employee is matched:-PASS
+[main] INFO Log - The Last name of the Employee is matched:-PASS
+[main] INFO Log - The employee Id is matched-PASS
+[main] INFO Log - The EmployeeId is :-0048
+[main] INFO Log - The expected text of the personal details page is
+[main] INFO Log - The Actual text of Personal details page isPersonal Details
+[main] INFO Log - The text of the personal details page is Not matched-FAIL
+[main] INFO Log - The first name of the Employee is matched:-PASS
+[main] INFO Log - The middle name of the Employee is matched:-PASS
+[main] INFO Log - The Last name of the Employee is matched:-PASS
+[main] INFO Log - The employee Id is matched-PASS
+[main] INFO Log - The EmployeeId is :-0049
+[main] INFO Log - The expected text of the personal details page is
+[main] INFO Log - The Actual text of Personal details page isPersonal Details
+[main] INFO Log - The text of the personal details page is Not matched-FAIL
+[main] INFO Log - The first name of the Employee is matched:-PASS
+[main] INFO Log - The middle name of the Employee is matched:-PASS
+[main] INFO Log - The Last name of the Employee is matched:-PASS
+[main] INFO Log - The employee Id is matched-PASS
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is-LOGIN Panel
+[main] INFO Log - The Atual loginpage text is-LOGIN Panel
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is Not matched-FAIL
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the loginpage for invalid credentials is Not matched-FAIL
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is-LOGIN Panel
+[main] INFO Log - The Atual loginpage text is-LOGIN Panel
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is Not matched-FAIL
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the loginpage for invalid credentials is Not matched-FAIL
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected text is-LOGIN Panel
+[main] INFO Log - atual login test is-LOGIN Panel
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The expected title of the loginpage is-orangeHRM
+[main] INFO Log - The actual title of the loginpage is-OrangeHRM
+[main] INFO Log - The title of the loginpage is matched-PASS
+[main] INFO Log - The expected homepage text is-Admin
+[main] INFO Log - The actual homepage text is-Welcome Admin
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the Employeelist page is-Employee Information
+[main] INFO Log - The text of the EmployeeList page is found-PASS
+[main] INFO Log - 0004  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0005  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0006  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0007  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0008  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0011  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0014  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0017  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0018  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0021  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0022  
+[main] INFO Log - vara Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0023  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0026  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0029  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0032  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0035  
+[main] INFO Log - vara Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0036  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0040  
+[main] INFO Log - vara Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0041  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0044  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0047  
+[main] INFO Log - Srini01 Hello01  
+[main] INFO Log - Chello01  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0009  
+[main] INFO Log - Ram02 HEllo02  
+[main] INFO Log - Chello02  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0012  
+[main] INFO Log - Ram02 HEllo02  
+[main] INFO Log - Chello02  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0015  
+[main] INFO Log - Ram02 HEllo02  
+[main] INFO Log - Chello02  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0019  
+[main] INFO Log - Ram02 HEllo02  
+[main] INFO Log - Chello02  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0024  
+[main] INFO Log - Ram02 HEllo02  
+[main] INFO Log - Chello02  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0027  
+[main] INFO Log - Ram02 HEllo02  
+[main] INFO Log - Chello02  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0030  
+[main] INFO Log - Ram02 HEllo02  
+[main] INFO Log - Chello02  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0033  
+[main] INFO Log - Ram02 HEllo02  
+[main] INFO Log - Chello02  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0037  
+[main] INFO Log - Ram02 HEllo02  
+[main] INFO Log - Chello02  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0042  
+[main] INFO Log - Ram02 HEllo02  
+[main] INFO Log - Chello02  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0045  
+[main] INFO Log - Ram02 HEllo02  
+[main] INFO Log - Chello02  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0048  
+[main] INFO Log - Ram02 HEllo02  
+[main] INFO Log - Chello02  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0010  
+[main] INFO Log - Raj03 Hello03  
+[main] INFO Log - Chello03  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0013  
+[main] INFO Log - Raj03 Hello03  
+[main] INFO Log - Chello03  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0016  
+[main] INFO Log - Raj03 Hello03  
+[main] INFO Log - Chello03  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0020  
+[main] INFO Log - Raj03 Hello03  
+[main] INFO Log - Chello03  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0025  
+[main] INFO Log - Raj03 Hello03  
+[main] INFO Log - Chello03  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0028  
+[main] INFO Log - Raj03 Hello03  
+[main] INFO Log - Chello03  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0031  
+[main] INFO Log - Raj03 Hello03  
+[main] INFO Log - Chello03  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0034  
+[main] INFO Log - Raj03 Hello03  
+[main] INFO Log - Chello03  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0038  
+[main] INFO Log - Raj03 Hello03  
+[main] INFO Log - Chello03  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0043  
+[main] INFO Log - Raj03 Hello03  
+[main] INFO Log - Chello03  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0046  
+[main] INFO Log - Raj03 Hello03  
+[main] INFO Log - Chello03  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0049  
+[main] INFO Log - Raj03 Hello03  
+[main] INFO Log - Chello03  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0003  
+[main] INFO Log - vara suchi  
+[main] INFO Log - chithra  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0039  
+[main] INFO Log - Srini01 suchi  
+[main] INFO Log - chithra  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0001  
+[main] INFO Log - Raji Shanvi  
+[main] INFO Log - Kumari  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - 0002  
+[main] INFO Log - Suchi Chithra  
+[main] INFO Log - Vara  
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log -   
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is-LOGIN Panel
+[main] INFO Log - The Atual loginpage text is-LOGIN Panel
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is Not matched-FAIL
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the loginpage for invalid credentials is Not matched-FAIL
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is-LOGIN Panel
+[main] INFO Log - The Atual loginpage text is-LOGIN Panel
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is Not matched-FAIL
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the loginpage for invalid credentials is Not matched-FAIL
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is-LOGIN Panel
+[main] INFO Log - The Atual loginpage text is-LOGIN Panel
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is Not matched-FAIL
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the loginpage for invalid credentials is Not matched-FAIL
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is-LOGIN Panel
+[main] INFO Log - The Atual loginpage text is-LOGIN Panel
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is Not matched-FAIL
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the loginpage for invalid credentials is Not matched-FAIL
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is-LOGIN Panel
+[main] INFO Log - The Atual loginpage text is-LOGIN Panel
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is Not matched-FAIL
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the loginpage for invalid credentials is Not matched-FAIL
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is Not matched-FAIL
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the Add employee page is matched-PASS
+[main] INFO Log - The EmployeeId is :-0050
+[main] INFO Log - The expected text of the personal details page isPersonal Details
+[main] INFO Log - The Actual text of Personal details page isPersonal Details
+[main] INFO Log - The text of the personal details page is matched-PASS
+[main] INFO Log - The first name of the Employee is matched:-PASS
+[main] INFO Log - The middle name of the Employee is matched:-PASS
+[main] INFO Log - The Last name of the Employee is matched:-PASS
+[main] INFO Log - The employee Id is matched-PASS
+[main] INFO Log - The EmployeeId is :-0051
+[main] INFO Log - The expected text of the personal details page is
+[main] INFO Log - The Actual text of Personal details page isPersonal Details
+[main] INFO Log - The text of the personal details page is Not matched-FAIL
+[main] INFO Log - The first name of the Employee is matched:-PASS
+[main] INFO Log - The middle name of the Employee is matched:-PASS
+[main] INFO Log - The Last name of the Employee is matched:-PASS
+[main] INFO Log - The employee Id is matched-PASS
+[main] INFO Log - The EmployeeId is :-0052
+[main] INFO Log - The expected text of the personal details page is
+[main] INFO Log - The Actual text of Personal details page isPersonal Details
+[main] INFO Log - The text of the personal details page is Not matched-FAIL
+[main] INFO Log - The first name of the Employee is matched:-PASS
+[main] INFO Log - The middle name of the Employee is matched:-PASS
+[main] INFO Log - The Last name of the Employee is matched:-PASS
+[main] INFO Log - The employee Id is matched-PASS
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is-LOGIN Panel
+[main] INFO Log - The Atual loginpage text is-LOGIN Panel
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The title of the loginpage is Not matched-FAIL
+[main] INFO Log - The text of the homepage is found-PASS
+[main] INFO Log - The text of the loginpage for invalid credentials is Not matched-FAIL
+[main] INFO Log - ******************Application closed successfully*********************

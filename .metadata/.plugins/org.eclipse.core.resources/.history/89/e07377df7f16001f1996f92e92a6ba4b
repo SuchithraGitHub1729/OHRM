@@ -1,0 +1,176 @@
+package com.OrangeHRMApplication_WebPages;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+
+import org.apache.commons.io.FileUtils;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.BaseTest.BaseTest;
+import com.Utility.Log;
+
+public class LoginPage extends BaseTest {
+
+	public LoginPage() throws IOException {
+		FileInputStream file = new FileInputStream(
+				"./src/com/OrangeHRMApplication_TestData_Files/OrangeHRM_LogInTestDataFile1.xlsx");
+
+		XSSFWorkbook workbook = new XSSFWorkbook(file);
+
+		XSSFSheet sheet = workbook.getSheet("LogInTestData");
+		PageFactory.initElements(driver, this);
+
+
+
+	}
+
+	
+
+	@FindBy(id = "logInPanelHeading")
+	WebElement loginpannel;
+
+	public void OHRMApplication_LoginPage_Loginpannel_Validation() throws IOException {
+
+		
+		Row row = sheet.getRow(1);
+
+		Cell rowofCell = row.getCell(0);
+		String expected_OHRM_LoginPage_LoginPanelText = rowofCell.getStringCellValue();
+		Log.info("The expected loginpage text is- " + expected_OHRM_LoginPage_LoginPanelText);
+
+		String actual_OHRM_LoginPage_LoginPanelText = loginpannel.getText();
+		Log.info("The actual Loginpage Text is- " + actual_OHRM_LoginPage_LoginPanelText);
+
+		Cell actual_Text = row.createCell(2);
+		actual_Text.setCellValue(actual_OHRM_LoginPage_LoginPanelText);
+
+		if (actual_OHRM_LoginPage_LoginPanelText.equals(expected_OHRM_LoginPage_LoginPanelText)) {
+
+			Log.info(" Successfully Navigated to OrangeHRM Application LogIN Page - PASS");
+
+			Cell text_TestResult = row.createCell(3);
+			text_TestResult.setCellValue(" Successfully Navigated to OrangeHRM Application LogIN Page - PASS");
+		} else {
+			Log.info(" Failed to Navigated to OrangeHRM Application LogIN Page - FAIL");
+
+			Cell text_TestResult = row.createCell(3);
+			text_TestResult.setCellValue(" Failed to Navigated to OrangeHRM Application LogIN Page - FAIL");
+		}
+	}
+
+	public void OHRM_LoginPage_Title_Validation() {
+
+		Row row = sheet.getRow(1);
+		Cell rowofCell = row.getCell(4);
+
+		String expected_OHRM_Loginpage_Tilte = rowofCell.getStringCellValue();
+
+		Log.info("The expcted loginpage title is - " + expected_OHRM_Loginpage_Tilte);
+
+		String actual_OHRM_Loginpage_Tilte = driver.getTitle();
+
+		Log.info("The expcted loginpage title is - " + actual_OHRM_Loginpage_Tilte);
+
+		Cell actual_Title = row.createCell(5);
+		actual_Title.setCellValue(actual_OHRM_Loginpage_Tilte);
+
+		if (actual_OHRM_Loginpage_Tilte.equalsIgnoreCase(expected_OHRM_Loginpage_Tilte)) {
+			Log.info("The text of the loginpage is matched-PASS");
+
+			Cell title_TestResult = row.createCell(6);
+			title_TestResult.setCellValue("The text of the loginpage is matched-PASS");
+		} else {
+			Log.info("The text of the loginpage is Not matched-FAIL");
+
+			Cell title_TestResult = row.createCell(6);
+			title_TestResult.setCellValue("The text of the loginpage is Not matched-FAIL");
+		}
+
+	}
+
+	@FindBy(id = "txtUsername")
+	WebElement Username;
+
+	@FindBy(name = "txtPassword")
+	WebElement Password;
+
+	@FindBy(name = "Submit")
+	WebElement LoginButton;
+
+	@FindBy(partialLinkText = "Welcome")
+	WebElement welcomeadmin;
+
+	@FindBy(linkText = "Logout")
+	WebElement logout;
+
+	@FindBy(id = "spanMessage")
+	WebElement invalidCredential;
+
+	public void OHRM_Login_Validation() throws IOException {
+
+		// sheet=workbook.getSheet("LogInTestData");
+		// int rowcount=sheet.getLastRowNum();
+		// System.out.println(rowcount);
+		for (int rowindex = 1; rowindex < 6; rowindex++) {
+			Row row = sheet.getRow(rowindex);
+
+			int rowofcellCount = row.getLastCellNum();
+			System.out.println(rowofcellCount);
+			Cell rowofcell = row.getCell(7);
+			String usernameTestdata = rowofcell.getStringCellValue();
+			Log.info("The UserName is - " + usernameTestdata);
+
+			Username.sendKeys(usernameTestdata);
+
+			rowofcell = row.getCell(8);
+			String passwordTestdata = rowofcell.getStringCellValue();
+			Log.info("The password is - " + passwordTestdata);
+
+			Password.sendKeys(passwordTestdata);
+
+			LoginButton.click();
+
+			try {
+
+				welcomeadmin.click();
+
+				Thread.sleep(3000);
+
+				logout.click();
+
+			} catch (Exception e) {
+
+				File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+
+				FileUtils.copyFile(screenshot, new File("./OHRMApplication_Exception_ScreenShots/" + "Rowindex" + " "
+						+ rowindex + " - " + "Inavalid Credentials" + " " + "Screenshot" + ".png"));
+
+				Cell rowofcell1 = row.getCell(1);
+
+				String expected_text_invalid = rowofcell1.getStringCellValue();
+				Log.info(expected_text_invalid);
+
+				String actual_InvalidCredential_Text = invalidCredential.getText();
+				Log.info(actual_InvalidCredential_Text);
+
+			}
+
+			FileOutputStream testresultfile = new FileOutputStream(
+					"./src/com/OrangeHRMApplication_TestResult_Files/OHRM_Login_TestResult.xlsx");
+			workbook.write(testresultfile);
+
+		}
+
+	}
+
+}

@@ -1,0 +1,517 @@
+2024-05-16 19:00:20,285 - Log -INFO - ====================Application Launched successfully==================
+2024-05-16 19:00:21,280 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-16 19:00:21,342 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-16 19:00:21,352 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-16 19:00:21,714 - Log -INFO - ******************Application closed successfully*********************
+2024-05-16 19:01:54,019 - Log -INFO - ====================Application Launched successfully==================
+2024-05-16 19:01:54,954 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-16 19:01:55,017 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-16 19:01:55,025 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-16 19:01:55,305 - Log -INFO - ******************Application closed successfully*********************
+2024-05-16 19:03:53,062 - Log -INFO - ====================Application Launched successfully==================
+2024-05-16 19:03:53,974 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-16 19:03:54,045 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-16 19:03:54,055 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-16 19:03:54,302 - Log -INFO - ******************Application closed successfully*********************
+2024-05-16 22:38:52,627 - Log -INFO - ====================Application Launched successfully==================
+2024-05-16 22:38:53,682 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-16 22:38:53,742 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-16 22:38:53,752 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-16 22:38:54,064 - Log -INFO - ******************Application closed successfully*********************
+2024-05-16 22:44:04,275 - Log -INFO - ====================Application Launched successfully==================
+2024-05-16 22:44:05,247 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-16 22:44:05,303 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-16 22:44:05,313 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-16 22:44:05,617 - Log -INFO - ******************Application closed successfully*********************
+2024-05-16 23:14:21,718 - Log -INFO - ====================Application Launched successfully==================
+2024-05-16 23:14:22,598 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-16 23:14:22,655 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-16 23:14:22,664 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-16 23:14:22,910 - Log -INFO - ******************Application closed successfully*********************
+2024-05-16 23:17:20,297 - Log -INFO - ====================Application Launched successfully==================
+2024-05-16 23:17:21,175 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-16 23:17:21,248 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-16 23:17:21,255 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-16 23:17:21,531 - Log -INFO - ******************Application closed successfully*********************
+2024-05-16 23:18:46,594 - Log -INFO - ====================Application Launched successfully==================
+2024-05-16 23:18:47,523 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-16 23:18:47,574 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-16 23:18:47,581 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-16 23:18:47,851 - Log -INFO - ******************Application closed successfully*********************
+2024-05-18 12:55:50,399 - Log -INFO - ====================Application Launched successfully==================
+2024-05-18 12:55:51,390 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-18 12:55:51,454 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-18 12:55:51,464 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-18 12:55:51,890 - Log -INFO - ******************Application closed successfully*********************
+2024-05-18 13:01:00,964 - Log -INFO - ====================Application Launched successfully==================
+2024-05-18 13:01:01,873 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-18 13:01:01,937 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-18 13:01:01,948 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-18 13:01:02,212 - Log -INFO - ******************Application closed successfully*********************
+2024-05-18 13:03:02,395 - Log -INFO - ====================Application Launched successfully==================
+2024-05-18 13:03:03,297 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-18 13:03:03,366 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-18 13:03:03,380 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-18 13:03:03,710 - Log -INFO - ******************Application closed successfully*********************
+2024-05-18 13:14:00,458 - Log -INFO - ====================Application Launched successfully==================
+2024-05-18 13:14:01,386 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-18 13:14:01,446 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-18 13:14:01,454 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-18 13:14:01,698 - Log -INFO - ******************Application closed successfully*********************
+2024-05-18 13:15:39,358 - Log -INFO - ====================Application Launched successfully==================
+2024-05-18 13:15:40,230 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-18 13:15:40,297 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-18 13:15:40,305 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-18 13:15:40,537 - Log -INFO - ******************Application closed successfully*********************
+2024-05-18 13:16:17,392 - Log -INFO - ====================Application Launched successfully==================
+2024-05-18 13:16:18,272 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-18 13:16:18,330 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-18 13:16:18,338 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-18 13:16:18,606 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 13:38:30,000 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 13:38:30,202 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 13:38:30,270 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 13:38:30,279 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 13:38:30,464 - Log -INFO - The UserName is - suchi
+2024-05-20 13:38:30,617 - Log -INFO - The password is - Suchithra@123
+2024-05-20 13:38:43,796 - Log -INFO - The UserName is - suchi 
+2024-05-20 13:38:43,948 - Log -INFO - The password is - suchithra
+2024-05-20 13:38:45,334 - Log -INFO - 
+2024-05-20 13:38:45,376 - Log -INFO - Invalid credentials
+2024-05-20 13:38:45,455 - Log -INFO - The UserName is - suchi
+2024-05-20 13:38:45,586 - Log -INFO - The password is - Suchithra@123
+2024-05-20 13:38:51,743 - Log -INFO - The UserName is - vara
+2024-05-20 13:38:51,859 - Log -INFO - The password is - Suchithra@123
+2024-05-20 13:38:52,739 - Log -INFO - 
+2024-05-20 13:38:52,787 - Log -INFO - Invalid credentials
+2024-05-20 13:38:52,839 - Log -INFO - The UserName is - vara
+2024-05-20 13:38:52,973 - Log -INFO - The password is - suchithra
+2024-05-20 13:38:53,799 - Log -INFO - 
+2024-05-20 13:38:53,854 - Log -INFO - Invalid credentials
+2024-05-20 13:38:54,310 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 15:44:53,336 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 15:44:53,541 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 15:44:53,593 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 15:44:53,602 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 15:44:53,755 - Log -INFO - The UserName is - suchi
+2024-05-20 15:44:53,920 - Log -INFO - The password is - Suchithra@123
+2024-05-20 15:45:01,559 - Log -INFO - The UserName is - suchi 
+2024-05-20 15:45:01,734 - Log -INFO - The password is - suchithra
+2024-05-20 15:45:03,282 - Log -INFO - 
+2024-05-20 15:45:03,335 - Log -INFO - Invalid credentials
+2024-05-20 15:45:03,387 - Log -INFO - The UserName is - suchi
+2024-05-20 15:45:03,531 - Log -INFO - The password is - Suchithra@123
+2024-05-20 15:45:09,850 - Log -INFO - The UserName is - vara
+2024-05-20 15:45:09,984 - Log -INFO - The password is - Suchithra@123
+2024-05-20 15:45:10,929 - Log -INFO - 
+2024-05-20 15:45:10,970 - Log -INFO - Invalid credentials
+2024-05-20 15:45:11,025 - Log -INFO - The UserName is - vara
+2024-05-20 15:45:11,145 - Log -INFO - The password is - suchithra
+2024-05-20 15:45:12,050 - Log -INFO - 
+2024-05-20 15:45:12,090 - Log -INFO - Invalid credentials
+2024-05-20 15:45:12,133 - Log -INFO - The UserName is - 
+2024-05-20 15:45:12,269 - Log -INFO - The password is - 
+2024-05-20 15:45:12,643 - Log -INFO - 
+2024-05-20 15:45:12,689 - Log -INFO - Username cannot be empty
+2024-05-20 15:45:12,828 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 15:45:12,844 - Log -INFO - The expcted loginpage title is - OrangeHRM
+2024-05-20 15:45:12,850 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 15:45:13,088 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 15:50:17,784 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 15:50:18,118 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 15:50:57,973 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 15:50:58,210 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 15:50:58,279 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 15:50:58,289 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 15:50:58,511 - Log -INFO - The UserName is - suchi
+2024-05-20 15:50:58,691 - Log -INFO - The password is - Suchithra@123
+2024-05-20 15:51:05,366 - Log -INFO - The UserName is - suchi 
+2024-05-20 15:51:05,540 - Log -INFO - The password is - suchithra
+2024-05-20 15:51:06,990 - Log -INFO - 
+2024-05-20 15:51:07,044 - Log -INFO - Invalid credentials
+2024-05-20 15:51:07,115 - Log -INFO - The UserName is - suchi
+2024-05-20 15:51:07,280 - Log -INFO - The password is - Suchithra@123
+2024-05-20 15:51:13,594 - Log -INFO - The UserName is - vara
+2024-05-20 15:51:13,724 - Log -INFO - The password is - Suchithra@123
+2024-05-20 15:51:14,687 - Log -INFO - 
+2024-05-20 15:51:14,729 - Log -INFO - Invalid credentials
+2024-05-20 15:51:14,792 - Log -INFO - The UserName is - vara
+2024-05-20 15:51:14,921 - Log -INFO - The password is - suchithra
+2024-05-20 15:51:15,950 - Log -INFO - 
+2024-05-20 15:51:15,988 - Log -INFO - Invalid credentials
+2024-05-20 15:51:16,040 - Log -INFO - The UserName is - 
+2024-05-20 15:51:16,212 - Log -INFO - The password is - 
+2024-05-20 15:51:16,675 - Log -INFO - 
+2024-05-20 15:51:16,743 - Log -INFO - Username cannot be empty
+2024-05-20 15:51:16,917 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 15:51:16,935 - Log -INFO - The expcted loginpage title is - OrangeHRM
+2024-05-20 15:51:16,942 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 15:51:17,204 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:18:42,798 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:18:43,038 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:18:43,104 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:18:43,114 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:18:43,430 - Log -INFO - The UserName is - suchi
+2024-05-20 16:18:43,603 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:18:56,223 - Log -INFO - The UserName is - suchi 
+2024-05-20 16:18:56,378 - Log -INFO - The password is - suchithra
+2024-05-20 16:18:57,828 - Log -INFO - 
+2024-05-20 16:18:57,885 - Log -INFO - Invalid credentials
+2024-05-20 16:18:57,939 - Log -INFO - The UserName is - suchi
+2024-05-20 16:18:58,103 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:19:04,474 - Log -INFO - The UserName is - vara
+2024-05-20 16:19:04,616 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:19:05,733 - Log -INFO - 
+2024-05-20 16:19:05,773 - Log -INFO - Invalid credentials
+2024-05-20 16:19:05,824 - Log -INFO - The UserName is - vara
+2024-05-20 16:19:05,946 - Log -INFO - The password is - suchithra
+2024-05-20 16:19:06,838 - Log -INFO - 
+2024-05-20 16:19:06,875 - Log -INFO - Invalid credentials
+2024-05-20 16:19:06,914 - Log -INFO - The UserName is - 
+2024-05-20 16:19:07,048 - Log -INFO - The password is - 
+2024-05-20 16:19:07,446 - Log -INFO - 
+2024-05-20 16:19:07,492 - Log -INFO - Username cannot be empty
+2024-05-20 16:19:07,800 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:19:07,819 - Log -INFO - The expcted loginpage title is - OrangeHRM
+2024-05-20 16:19:07,826 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:19:08,091 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:22:07,526 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:22:07,754 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:22:07,825 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:22:07,833 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:22:08,183 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:22:08,212 - Log -INFO - The expcted loginpage title is - OrangeHRM
+2024-05-20 16:22:08,218 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:22:08,517 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:23:32,610 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:23:32,830 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:23:32,888 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:23:32,898 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:23:33,125 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:23:33,143 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:23:33,151 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:23:33,435 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:28:19,940 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:28:20,202 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:28:20,267 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:28:20,275 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:28:20,433 - Log -INFO - The UserName is - suchi
+2024-05-20 16:28:20,592 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:28:27,009 - Log -INFO - The UserName is - suchi 
+2024-05-20 16:28:27,158 - Log -INFO - The password is - suchithra
+2024-05-20 16:28:28,520 - Log -INFO - 
+2024-05-20 16:28:28,565 - Log -INFO - Invalid credentials
+2024-05-20 16:28:28,610 - Log -INFO - The UserName is - suchi
+2024-05-20 16:28:28,762 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:28:34,999 - Log -INFO - The UserName is - vara
+2024-05-20 16:28:35,116 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:28:36,020 - Log -INFO - 
+2024-05-20 16:28:36,076 - Log -INFO - Invalid credentials
+2024-05-20 16:28:36,162 - Log -INFO - The UserName is - vara
+2024-05-20 16:28:36,283 - Log -INFO - The password is - suchithra
+2024-05-20 16:28:37,141 - Log -INFO - 
+2024-05-20 16:28:37,184 - Log -INFO - Invalid credentials
+2024-05-20 16:28:37,231 - Log -INFO - The UserName is - 
+2024-05-20 16:28:37,392 - Log -INFO - The password is - 
+2024-05-20 16:28:37,852 - Log -INFO - 
+2024-05-20 16:28:37,889 - Log -INFO - Username cannot be empty
+2024-05-20 16:28:38,218 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:28:38,238 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:28:38,247 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:28:38,478 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:31:35,460 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:31:35,693 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:31:35,761 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:31:35,771 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:31:35,965 - Log -INFO - The UserName is - suchi
+2024-05-20 16:31:36,114 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:31:43,948 - Log -INFO - The UserName is - suchi 
+2024-05-20 16:31:44,129 - Log -INFO - The password is - suchithra
+2024-05-20 16:31:45,750 - Log -INFO - 
+2024-05-20 16:31:45,790 - Log -INFO - Invalid credentials
+2024-05-20 16:31:45,848 - Log -INFO - The UserName is - suchi
+2024-05-20 16:31:45,985 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:31:52,349 - Log -INFO - The UserName is - vara
+2024-05-20 16:31:52,483 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:31:53,548 - Log -INFO - 
+2024-05-20 16:31:53,592 - Log -INFO - Invalid credentials
+2024-05-20 16:31:53,665 - Log -INFO - The UserName is - vara
+2024-05-20 16:31:53,805 - Log -INFO - The password is - suchithra
+2024-05-20 16:31:54,857 - Log -INFO - 
+2024-05-20 16:31:54,898 - Log -INFO - Invalid credentials
+2024-05-20 16:31:54,947 - Log -INFO - The UserName is - 
+2024-05-20 16:31:55,091 - Log -INFO - The password is - 
+2024-05-20 16:31:55,501 - Log -INFO - 
+2024-05-20 16:31:55,543 - Log -INFO - Username cannot be empty
+2024-05-20 16:31:55,812 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:31:55,829 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:31:55,835 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:31:56,153 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:34:23,747 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:34:23,954 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:34:24,021 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:34:24,029 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:34:24,194 - Log -INFO - The UserName is - suchi
+2024-05-20 16:34:24,375 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:34:31,148 - Log -INFO - The UserName is - suchi 
+2024-05-20 16:34:31,296 - Log -INFO - The password is - suchithra
+2024-05-20 16:34:32,768 - Log -INFO - 
+2024-05-20 16:34:32,822 - Log -INFO - Invalid credentials
+2024-05-20 16:34:32,826 - Log -INFO - The UserName is - suchi
+2024-05-20 16:34:33,005 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:34:39,265 - Log -INFO - The UserName is - vara
+2024-05-20 16:34:39,402 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:34:40,298 - Log -INFO - 
+2024-05-20 16:34:40,348 - Log -INFO - Invalid credentials
+2024-05-20 16:34:40,353 - Log -INFO - The UserName is - vara
+2024-05-20 16:34:40,501 - Log -INFO - The password is - suchithra
+2024-05-20 16:34:41,354 - Log -INFO - 
+2024-05-20 16:34:41,404 - Log -INFO - Invalid credentials
+2024-05-20 16:34:41,408 - Log -INFO - The UserName is - 
+2024-05-20 16:34:41,523 - Log -INFO - The password is - 
+2024-05-20 16:34:41,969 - Log -INFO - 
+2024-05-20 16:34:42,009 - Log -INFO - Username cannot be empty
+2024-05-20 16:34:42,246 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:34:42,261 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:34:42,268 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:34:42,518 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:36:25,385 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:36:25,621 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:36:25,690 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:36:25,699 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:36:25,898 - Log -INFO - The UserName is - suchi
+2024-05-20 16:36:26,064 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:36:32,758 - Log -INFO - The UserName is - suchi 
+2024-05-20 16:36:32,935 - Log -INFO - The password is - suchithra
+2024-05-20 16:36:34,432 - Log -INFO - 
+2024-05-20 16:36:34,480 - Log -INFO - Invalid credentials
+2024-05-20 16:36:34,485 - Log -INFO - The UserName is - suchi
+2024-05-20 16:36:34,643 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:36:41,040 - Log -INFO - The UserName is - vara
+2024-05-20 16:36:41,177 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:36:42,089 - Log -INFO - 
+2024-05-20 16:36:42,132 - Log -INFO - Invalid credentials
+2024-05-20 16:36:42,138 - Log -INFO - The UserName is - vara
+2024-05-20 16:36:42,266 - Log -INFO - The password is - suchithra
+2024-05-20 16:36:43,127 - Log -INFO - 
+2024-05-20 16:36:43,170 - Log -INFO - Invalid credentials
+2024-05-20 16:36:43,179 - Log -INFO - The UserName is - 
+2024-05-20 16:36:43,393 - Log -INFO - The password is - 
+2024-05-20 16:36:43,916 - Log -INFO - 
+2024-05-20 16:36:43,963 - Log -INFO - Username cannot be empty
+2024-05-20 16:36:44,233 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:36:44,249 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:36:44,255 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:36:44,581 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:37:50,711 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:37:50,965 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:37:51,035 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:37:51,043 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:37:51,208 - Log -INFO - The UserName is - suchi
+2024-05-20 16:37:51,388 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:37:57,980 - Log -INFO - The UserName is - suchi 
+2024-05-20 16:37:58,147 - Log -INFO - The password is - suchithra
+2024-05-20 16:37:59,519 - Log -INFO - 
+2024-05-20 16:37:59,561 - Log -INFO - Invalid credentials
+2024-05-20 16:37:59,608 - Log -INFO - The UserName is - suchi
+2024-05-20 16:37:59,758 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:38:06,230 - Log -INFO - The UserName is - vara
+2024-05-20 16:38:06,365 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:38:07,530 - Log -INFO - 
+2024-05-20 16:38:07,583 - Log -INFO - Invalid credentials
+2024-05-20 16:38:07,674 - Log -INFO - The UserName is - vara
+2024-05-20 16:38:07,818 - Log -INFO - The password is - suchithra
+2024-05-20 16:38:08,679 - Log -INFO - 
+2024-05-20 16:38:08,727 - Log -INFO - Invalid credentials
+2024-05-20 16:38:08,765 - Log -INFO - The UserName is - 
+2024-05-20 16:38:08,902 - Log -INFO - The password is - 
+2024-05-20 16:38:09,375 - Log -INFO - 
+2024-05-20 16:38:09,418 - Log -INFO - Username cannot be empty
+2024-05-20 16:38:09,736 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:38:09,768 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:38:09,774 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:38:10,071 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:40:02,039 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:40:02,260 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:40:02,322 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:40:02,329 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:40:02,727 - Log -INFO - Invalid credentials
+2024-05-20 16:40:02,861 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:40:02,879 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:40:02,889 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:40:03,115 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:40:21,558 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:40:21,788 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:41:03,381 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:41:03,605 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:41:03,679 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:41:03,688 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:41:03,871 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:41:03,885 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:41:03,891 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:41:04,262 - Log -INFO - Invalid credentials
+2024-05-20 16:41:04,463 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:42:03,409 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:42:03,654 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:42:03,727 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:42:03,735 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:42:03,874 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:42:03,892 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:42:03,898 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:42:05,924 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:47:07,596 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:47:07,779 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:47:07,845 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:47:07,853 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:47:07,999 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:47:08,015 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:47:08,020 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:47:08,116 - Log -INFO - The UserName is - suchi
+2024-05-20 16:47:08,266 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:47:14,945 - Log -INFO - The UserName is - suchi 
+2024-05-20 16:47:15,098 - Log -INFO - The password is - suchithra
+2024-05-20 16:47:16,676 - Log -INFO - The UserName is - suchi
+2024-05-20 16:47:16,869 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:47:23,394 - Log -INFO - The UserName is - vara
+2024-05-20 16:47:23,512 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:47:24,448 - Log -INFO - The UserName is - vara
+2024-05-20 16:47:24,582 - Log -INFO - The password is - suchithra
+2024-05-20 16:47:25,548 - Log -INFO - The UserName is - 
+2024-05-20 16:47:25,650 - Log -INFO - The password is - 
+2024-05-20 16:47:26,512 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:48:08,362 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:48:08,560 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:48:08,626 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:48:08,634 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:48:08,808 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:48:08,831 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:48:08,836 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:48:08,934 - Log -INFO - The UserName is - suchi
+2024-05-20 16:48:09,086 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:48:15,513 - Log -INFO - The UserName is - suchi 
+2024-05-20 16:48:15,696 - Log -INFO - The password is - suchithra
+2024-05-20 16:48:17,410 - Log -INFO - The UserName is - suchi
+2024-05-20 16:48:17,549 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:48:23,944 - Log -INFO - The UserName is - vara
+2024-05-20 16:48:24,097 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:48:25,394 - Log -INFO - The UserName is - vara
+2024-05-20 16:48:25,595 - Log -INFO - The password is - suchithra
+2024-05-20 16:48:26,650 - Log -INFO - The UserName is - 
+2024-05-20 16:48:26,756 - Log -INFO - The password is - 
+2024-05-20 16:48:27,858 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:50:17,616 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:50:17,876 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:50:17,938 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:50:17,946 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:50:18,144 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:50:18,167 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:50:18,174 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:50:18,279 - Log -INFO - The UserName is - suchi
+2024-05-20 16:50:18,446 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:50:24,693 - Log -INFO - The UserName is - suchi 
+2024-05-20 16:50:24,843 - Log -INFO - The password is - suchithra
+2024-05-20 16:50:26,326 - Log -INFO - The UserName is - suchi
+2024-05-20 16:50:26,451 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:50:32,790 - Log -INFO - The UserName is - vara
+2024-05-20 16:50:32,943 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:50:33,911 - Log -INFO - The UserName is - vara
+2024-05-20 16:50:34,057 - Log -INFO - The password is - suchithra
+2024-05-20 16:50:34,942 - Log -INFO - The UserName is - 
+2024-05-20 16:50:35,074 - Log -INFO - The password is - 
+2024-05-20 16:50:36,245 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:51:36,396 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:51:36,618 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:51:36,688 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:51:36,697 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:51:36,865 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:51:36,886 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:51:36,893 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:51:37,226 - Log -INFO - The UserName is - suchi
+2024-05-20 16:51:37,391 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:51:43,822 - Log -INFO - The UserName is - suchi 
+2024-05-20 16:51:43,976 - Log -INFO - The password is - suchithra
+2024-05-20 16:51:45,407 - Log -INFO - The UserName is - suchi
+2024-05-20 16:51:45,582 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:51:52,029 - Log -INFO - The UserName is - vara
+2024-05-20 16:51:52,171 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:51:53,253 - Log -INFO - The UserName is - vara
+2024-05-20 16:51:53,385 - Log -INFO - The password is - suchithra
+2024-05-20 16:51:54,356 - Log -INFO - The UserName is - 
+2024-05-20 16:51:54,570 - Log -INFO - The password is - 
+2024-05-20 16:51:55,450 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:53:59,271 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:53:59,504 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:53:59,592 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:53:59,602 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:54:00,095 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:54:00,113 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:54:00,122 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:54:00,259 - Log -INFO - The UserName is - suchi
+2024-05-20 16:54:00,428 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:54:06,788 - Log -INFO - The UserName is - suchi 
+2024-05-20 16:54:06,940 - Log -INFO - The password is - suchithra
+2024-05-20 16:54:08,314 - Log -INFO - The UserName is - suchi
+2024-05-20 16:54:08,460 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:54:14,498 - Log -INFO - The UserName is - vara
+2024-05-20 16:54:14,636 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:54:15,567 - Log -INFO - The UserName is - vara
+2024-05-20 16:54:15,719 - Log -INFO - The password is - suchithra
+2024-05-20 16:54:16,646 - Log -INFO - The UserName is - 
+2024-05-20 16:54:16,756 - Log -INFO - The password is - 
+2024-05-20 16:54:17,436 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 16:55:51,893 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 16:55:52,120 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 16:55:52,188 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 16:55:52,195 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 16:55:52,607 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 16:55:52,625 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 16:55:52,631 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 16:55:52,917 - Log -INFO - The UserName is - suchi
+2024-05-20 16:55:53,097 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:55:59,426 - Log -INFO - The UserName is - suchi 
+2024-05-20 16:55:59,572 - Log -INFO - The password is - suchithra
+2024-05-20 16:56:01,137 - Log -INFO - The UserName is - suchi
+2024-05-20 16:56:01,298 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:56:07,583 - Log -INFO - The UserName is - vara
+2024-05-20 16:56:07,825 - Log -INFO - The password is - Suchithra@123
+2024-05-20 16:56:09,128 - Log -INFO - The UserName is - vara
+2024-05-20 16:56:09,318 - Log -INFO - The password is - suchithra
+2024-05-20 16:56:10,322 - Log -INFO - The UserName is - 
+2024-05-20 16:56:10,437 - Log -INFO - The password is - 
+2024-05-20 16:56:11,361 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 17:01:41,334 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 17:01:41,566 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 17:01:41,628 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 17:01:41,637 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 17:01:42,016 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 17:01:42,034 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 17:01:42,040 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 17:01:43,943 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 17:02:08,430 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 17:02:08,649 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 17:02:08,704 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 17:02:08,712 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 17:02:09,138 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 17:02:09,165 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 17:02:09,178 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 17:02:11,206 - Log -INFO - ******************Application closed successfully*********************
+2024-05-20 17:02:57,003 - Log -INFO - ====================Application Launched successfully==================
+2024-05-20 17:02:57,288 - Log -INFO - The expected loginpage text is- LOGIN Panel
+2024-05-20 17:02:57,360 - Log -INFO - The actual Loginpage Text is- LOGIN Panel
+2024-05-20 17:02:57,369 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+2024-05-20 17:02:57,806 - Log -INFO - The expcted loginpage title is - orangeHRM
+2024-05-20 17:02:57,826 - Log -INFO - The actual loginpage title is - OrangeHRM
+2024-05-20 17:02:57,831 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-20 17:02:57,967 - Log -INFO - The UserName is - suchi
+2024-05-20 17:02:58,111 - Log -INFO - The password is - Suchithra@123
+2024-05-20 17:03:04,549 - Log -INFO - The UserName is - suchi 
+2024-05-20 17:03:04,693 - Log -INFO - The password is - suchithra
+2024-05-20 17:03:06,359 - Log -INFO - The UserName is - suchi
+2024-05-20 17:03:06,568 - Log -INFO - The password is - Suchithra@123
+2024-05-20 17:03:12,831 - Log -INFO - The UserName is - vara
+2024-05-20 17:03:13,024 - Log -INFO - The password is - Suchithra@123
+2024-05-20 17:03:14,061 - Log -INFO - The UserName is - vara
+2024-05-20 17:03:14,260 - Log -INFO - The password is - suchithra
+2024-05-20 17:03:15,255 - Log -INFO - The UserName is - 
+2024-05-20 17:03:15,424 - Log -INFO - The password is - 
+2024-05-20 17:03:16,268 - Log -INFO - ******************Application closed successfully*********************

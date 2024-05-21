@@ -1,0 +1,20 @@
+<suite name="OrangeHRMApplication">
+	<test name="AddEmployeeTest">
+		<classes>
+			
+			<class name="com.OrangeHRMApplication_Testcases.AddEmployee_Validation_Excel_TestNG">
+				
+			</class>
+		</classes>
+	</test>
+	
+	<test name="EmployeeList">
+		<classes>
+			
+			<class name="com.OrangeHRMApplication_Testcases.OHRM_GetEmployeeList_WriteExcel_TestNG">
+				
+			</class>
+		</classes>
+	</test>
+</suite>
+  

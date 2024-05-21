@@ -1,0 +1,517 @@
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - 
+[main] INFO Log - Username cannot be empty
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The expcted loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - 
+[main] INFO Log - Username cannot be empty
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The expcted loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - 
+[main] INFO Log - Username cannot be empty
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The expcted loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The expcted loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - 
+[main] INFO Log - Username cannot be empty
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - 
+[main] INFO Log - Username cannot be empty
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - 
+[main] INFO Log - Username cannot be empty
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - 
+[main] INFO Log - Username cannot be empty
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - 
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - 
+[main] INFO Log - Username cannot be empty
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - Invalid credentials
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - Invalid credentials
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - ******************Application closed successfully*********************
+[main] INFO Log - ====================Application Launched successfully==================
+[main] INFO Log - The expected loginpage text is- LOGIN Panel
+[main] INFO Log - The actual Loginpage Text is- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS
+[main] INFO Log - The expcted loginpage title is - orangeHRM
+[main] INFO Log - The actual loginpage title is - OrangeHRM
+[main] INFO Log - The text of the loginpage is matched-PASS
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - suchi 
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - suchi
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - Suchithra@123
+[main] INFO Log - The UserName is - vara
+[main] INFO Log - The password is - suchithra
+[main] INFO Log - The UserName is - 
+[main] INFO Log - The password is - 
+[main] INFO Log - ******************Application closed successfully*********************

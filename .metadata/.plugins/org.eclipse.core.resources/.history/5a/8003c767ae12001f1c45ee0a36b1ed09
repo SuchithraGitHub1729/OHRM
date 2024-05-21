@@ -1,0 +1,31 @@
+2024-05-15 16:51:13,514 - Log -INFO - ====================Application Launched successfully==================
+2024-05-15 16:51:14,710 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-15 16:51:14,726 - Log -INFO - The title of the loginpage is matched-PASS
+2024-05-15 16:51:17,111 - Log -INFO - The text of the homepage is found-PASS
+2024-05-15 16:51:18,400 - Log -INFO - The text of the Add employee page is matched-PASS
+2024-05-15 16:51:18,905 - Log -INFO - The EmployeeId is :-0056
+2024-05-15 16:51:21,454 - Log -INFO - The expected text of the personal details page isPersonal Details
+2024-05-15 16:51:21,507 - Log -INFO - The Actual text of Personal details page isPersonal Details
+2024-05-15 16:51:21,515 - Log -INFO - The text of the personal details page is matched-PASS
+2024-05-15 16:51:21,582 - Log -INFO - The first name of the Employee is matched:-PASS
+2024-05-15 16:51:21,678 - Log -INFO - The middle name of the Employee is matched:-PASS
+2024-05-15 16:51:21,753 - Log -INFO - The Last name of the Employee is matched:-PASS
+2024-05-15 16:51:21,814 - Log -INFO - The employee Id is matched-PASS
+2024-05-15 16:51:23,644 - Log -INFO - The EmployeeId is :-0057
+2024-05-15 16:51:26,143 - Log -INFO - The expected text of the personal details page is
+2024-05-15 16:51:26,196 - Log -INFO - The Actual text of Personal details page isPersonal Details
+2024-05-15 16:51:26,202 - Log -INFO - The text of the personal details page is Not matched-FAIL
+2024-05-15 16:51:26,258 - Log -INFO - The first name of the Employee is matched:-PASS
+2024-05-15 16:51:26,304 - Log -INFO - The middle name of the Employee is matched:-PASS
+2024-05-15 16:51:26,352 - Log -INFO - The Last name of the Employee is matched:-PASS
+2024-05-15 16:51:26,414 - Log -INFO - The employee Id is matched-PASS
+2024-05-15 16:51:27,699 - Log -INFO - The EmployeeId is :-0058
+2024-05-15 16:51:29,744 - Log -INFO - The expected text of the personal details page is
+2024-05-15 16:51:29,795 - Log -INFO - The Actual text of Personal details page isPersonal Details
+2024-05-15 16:51:29,802 - Log -INFO - The text of the personal details page is Not matched-FAIL
+2024-05-15 16:51:29,855 - Log -INFO - The first name of the Employee is matched:-PASS
+2024-05-15 16:51:29,905 - Log -INFO - The middle name of the Employee is matched:-PASS
+2024-05-15 16:51:29,967 - Log -INFO - The Last name of the Employee is matched:-PASS
+2024-05-15 16:51:30,026 - Log -INFO - The employee Id is matched-PASS
+2024-05-15 16:51:36,813 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-15 16:51:37,183 - Log -INFO - ******************Application closed successfully*********************

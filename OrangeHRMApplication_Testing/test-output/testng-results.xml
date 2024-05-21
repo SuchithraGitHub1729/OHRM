@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-20T16:43:22 IST" name="Default suite" finished-at="2024-05-20T16:43:49 IST" duration-ms="26860">
+    <groups>
+    </groups>
+    <test started-at="2024-05-20T16:43:22 IST" name="Default test" finished-at="2024-05-20T16:43:49 IST" duration-ms="26860">
+      <class name="com.OHRM_Testing.OHRM_LoginFunctionality_Validation_TestNG">
+        <test-method is-config="true" signature="applicationLaunch()[pri:0, instance:com.OHRM_Testing.OHRM_LoginFunctionality_Validation_TestNG@53fdffa1]" started-at="2024-05-20T16:43:22 IST" name="applicationLaunch" finished-at="2024-05-20T16:43:26 IST" duration-ms="4063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLaunch -->
+        <test-method signature="loginpage_Validation()[pri:1, instance:com.OHRM_Testing.OHRM_LoginFunctionality_Validation_TestNG@53fdffa1]" started-at="2024-05-20T16:43:26 IST" name="loginpage_Validation" description="OHRM Applicatiion loginpage validatiion" finished-at="2024-05-20T16:43:27 IST" duration-ms="989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage_Validation -->
+        <test-method signature="oHRM_Login_Test()[pri:2, instance:com.OHRM_Testing.OHRM_LoginFunctionality_Validation_TestNG@53fdffa1]" started-at="2024-05-20T16:43:27 IST" name="oHRM_Login_Test" description="OHRM applicatiion Login Test" finished-at="2024-05-20T16:43:49 IST" duration-ms="21557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oHRM_Login_Test -->
+        <test-method is-config="true" signature="applicationClose()[pri:0, instance:com.OHRM_Testing.OHRM_LoginFunctionality_Validation_TestNG@53fdffa1]" started-at="2024-05-20T16:43:49 IST" name="applicationClose" finished-at="2024-05-20T16:43:49 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationClose -->
+      </class> <!-- com.OHRM_Testing.OHRM_LoginFunctionality_Validation_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,394 @@
+2024-05-15 17:00:45,234 - Log -INFO - ====================Application Launched successfully==================
+2024-05-15 17:00:46,408 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-15 17:00:46,425 - Log -INFO - The title of the loginpage is matched-PASS
+2024-05-15 17:00:49,384 - Log -INFO - The text of the homepage is found-PASS
+2024-05-15 17:00:50,662 - Log -INFO - The text of the Add employee page is matched-PASS
+2024-05-15 17:00:51,193 - Log -INFO - The EmployeeId is :-0059
+2024-05-15 17:00:53,407 - Log -INFO - The expected text of the personal details page isPersonal Details
+2024-05-15 17:00:53,473 - Log -INFO - The Actual text of Personal details page isPersonal Details
+2024-05-15 17:00:53,480 - Log -INFO - The text of the personal details page is matched-PASS
+2024-05-15 17:00:53,541 - Log -INFO - The first name of the Employee is matched:-PASS
+2024-05-15 17:00:53,604 - Log -INFO - The middle name of the Employee is matched:-PASS
+2024-05-15 17:00:53,672 - Log -INFO - The Last name of the Employee is matched:-PASS
+2024-05-15 17:00:53,727 - Log -INFO - The employee Id is matched-PASS
+2024-05-15 17:00:55,900 - Log -INFO - The EmployeeId is :-0060
+2024-05-15 17:00:59,466 - Log -INFO - The expected text of the personal details page is
+2024-05-15 17:00:59,520 - Log -INFO - The Actual text of Personal details page isPersonal Details
+2024-05-15 17:00:59,525 - Log -INFO - The text of the personal details page is Not matched-FAIL
+2024-05-15 17:00:59,590 - Log -INFO - The first name of the Employee is matched:-PASS
+2024-05-15 17:00:59,653 - Log -INFO - The middle name of the Employee is matched:-PASS
+2024-05-15 17:00:59,716 - Log -INFO - The Last name of the Employee is matched:-PASS
+2024-05-15 17:00:59,777 - Log -INFO - The employee Id is matched-PASS
+2024-05-15 17:01:00,927 - Log -INFO - The EmployeeId is :-0061
+2024-05-15 17:01:02,707 - Log -INFO - The expected text of the personal details page is
+2024-05-15 17:01:02,751 - Log -INFO - The Actual text of Personal details page isPersonal Details
+2024-05-15 17:01:02,758 - Log -INFO - The text of the personal details page is Not matched-FAIL
+2024-05-15 17:01:02,811 - Log -INFO - The first name of the Employee is matched:-PASS
+2024-05-15 17:01:02,863 - Log -INFO - The middle name of the Employee is matched:-PASS
+2024-05-15 17:01:02,920 - Log -INFO - The Last name of the Employee is matched:-PASS
+2024-05-15 17:01:02,968 - Log -INFO - The employee Id is matched-PASS
+2024-05-15 17:01:09,780 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-15 17:01:10,308 - Log -INFO - ******************Application closed successfully*********************
+2024-05-15 17:01:12,339 - Log -INFO - ====================Application Launched successfully==================
+2024-05-15 17:01:12,484 - Log -INFO - The expected text is-LOGIN Panel
+2024-05-15 17:01:12,550 - Log -INFO - atual login test is-LOGIN Panel
+2024-05-15 17:01:12,555 - Log -INFO - The text of the loginpage is matched-PASS
+2024-05-15 17:01:12,560 - Log -INFO - The expected title of the loginpage is-orangeHRM
+2024-05-15 17:01:12,578 - Log -INFO - The actual title of the loginpage is-OrangeHRM
+2024-05-15 17:01:12,583 - Log -INFO - The title of the loginpage is matched-PASS
+2024-05-15 17:01:14,753 - Log -INFO - The expected homepage text is-Admin
+2024-05-15 17:01:14,822 - Log -INFO - The actual homepage text is-Welcome Admin
+2024-05-15 17:01:14,827 - Log -INFO - The text of the homepage is found-PASS
+2024-05-15 17:01:18,778 - Log -INFO - The text of the Employeelist page is-Employee Information
+2024-05-15 17:01:18,819 - Log -INFO - The text of the EmployeeList page is found-PASS
+2024-05-15 17:01:18,955 - Log -INFO - 0004  
+2024-05-15 17:01:18,986 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:19,008 - Log -INFO - Chello01  
+2024-05-15 17:01:19,032 - Log -INFO -   
+2024-05-15 17:01:19,056 - Log -INFO -   
+2024-05-15 17:01:19,082 - Log -INFO -   
+2024-05-15 17:01:19,100 - Log -INFO -   
+2024-05-15 17:01:19,150 - Log -INFO - 0005  
+2024-05-15 17:01:19,172 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:19,197 - Log -INFO - Chello01  
+2024-05-15 17:01:19,226 - Log -INFO -   
+2024-05-15 17:01:19,249 - Log -INFO -   
+2024-05-15 17:01:19,268 - Log -INFO -   
+2024-05-15 17:01:19,291 - Log -INFO -   
+2024-05-15 17:01:19,326 - Log -INFO - 0006  
+2024-05-15 17:01:19,343 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:19,360 - Log -INFO - Chello01  
+2024-05-15 17:01:19,376 - Log -INFO -   
+2024-05-15 17:01:19,395 - Log -INFO -   
+2024-05-15 17:01:19,413 - Log -INFO -   
+2024-05-15 17:01:19,429 - Log -INFO -   
+2024-05-15 17:01:19,463 - Log -INFO - 0007  
+2024-05-15 17:01:19,484 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:19,508 - Log -INFO - Chello01  
+2024-05-15 17:01:19,526 - Log -INFO -   
+2024-05-15 17:01:19,545 - Log -INFO -   
+2024-05-15 17:01:19,566 - Log -INFO -   
+2024-05-15 17:01:19,583 - Log -INFO -   
+2024-05-15 17:01:19,617 - Log -INFO - 0008  
+2024-05-15 17:01:19,635 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:19,656 - Log -INFO - Chello01  
+2024-05-15 17:01:19,673 - Log -INFO -   
+2024-05-15 17:01:19,691 - Log -INFO -   
+2024-05-15 17:01:19,706 - Log -INFO -   
+2024-05-15 17:01:19,724 - Log -INFO -   
+2024-05-15 17:01:19,757 - Log -INFO - 0011  
+2024-05-15 17:01:19,775 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:19,796 - Log -INFO - Chello01  
+2024-05-15 17:01:19,813 - Log -INFO -   
+2024-05-15 17:01:19,832 - Log -INFO -   
+2024-05-15 17:01:19,851 - Log -INFO -   
+2024-05-15 17:01:19,868 - Log -INFO -   
+2024-05-15 17:01:19,902 - Log -INFO - 0014  
+2024-05-15 17:01:19,922 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:19,941 - Log -INFO - Chello01  
+2024-05-15 17:01:19,958 - Log -INFO -   
+2024-05-15 17:01:19,976 - Log -INFO -   
+2024-05-15 17:01:19,993 - Log -INFO -   
+2024-05-15 17:01:20,011 - Log -INFO -   
+2024-05-15 17:01:20,047 - Log -INFO - 0017  
+2024-05-15 17:01:20,066 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:20,084 - Log -INFO - Chello01  
+2024-05-15 17:01:20,102 - Log -INFO -   
+2024-05-15 17:01:20,122 - Log -INFO -   
+2024-05-15 17:01:20,138 - Log -INFO -   
+2024-05-15 17:01:20,157 - Log -INFO -   
+2024-05-15 17:01:20,192 - Log -INFO - 0018  
+2024-05-15 17:01:20,211 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:20,230 - Log -INFO - Chello01  
+2024-05-15 17:01:20,248 - Log -INFO -   
+2024-05-15 17:01:20,265 - Log -INFO -   
+2024-05-15 17:01:20,282 - Log -INFO -   
+2024-05-15 17:01:20,298 - Log -INFO -   
+2024-05-15 17:01:20,335 - Log -INFO - 0021  
+2024-05-15 17:01:20,362 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:20,387 - Log -INFO - Chello01  
+2024-05-15 17:01:20,407 - Log -INFO -   
+2024-05-15 17:01:20,428 - Log -INFO -   
+2024-05-15 17:01:20,445 - Log -INFO -   
+2024-05-15 17:01:20,471 - Log -INFO -   
+2024-05-15 17:01:20,508 - Log -INFO - 0022  
+2024-05-15 17:01:20,530 - Log -INFO - vara Hello01  
+2024-05-15 17:01:20,548 - Log -INFO - Chello01  
+2024-05-15 17:01:20,567 - Log -INFO -   
+2024-05-15 17:01:20,588 - Log -INFO -   
+2024-05-15 17:01:20,608 - Log -INFO -   
+2024-05-15 17:01:20,625 - Log -INFO -   
+2024-05-15 17:01:20,661 - Log -INFO - 0023  
+2024-05-15 17:01:20,680 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:20,697 - Log -INFO - Chello01  
+2024-05-15 17:01:20,714 - Log -INFO -   
+2024-05-15 17:01:20,732 - Log -INFO -   
+2024-05-15 17:01:20,747 - Log -INFO -   
+2024-05-15 17:01:20,763 - Log -INFO -   
+2024-05-15 17:01:20,801 - Log -INFO - 0026  
+2024-05-15 17:01:20,823 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:20,842 - Log -INFO - Chello01  
+2024-05-15 17:01:20,859 - Log -INFO -   
+2024-05-15 17:01:20,874 - Log -INFO -   
+2024-05-15 17:01:20,891 - Log -INFO -   
+2024-05-15 17:01:20,909 - Log -INFO -   
+2024-05-15 17:01:20,940 - Log -INFO - 0029  
+2024-05-15 17:01:20,957 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:20,976 - Log -INFO - Chello01  
+2024-05-15 17:01:20,996 - Log -INFO -   
+2024-05-15 17:01:21,020 - Log -INFO -   
+2024-05-15 17:01:21,041 - Log -INFO -   
+2024-05-15 17:01:21,058 - Log -INFO -   
+2024-05-15 17:01:21,094 - Log -INFO - 0032  
+2024-05-15 17:01:21,112 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:21,134 - Log -INFO - Chello01  
+2024-05-15 17:01:21,152 - Log -INFO -   
+2024-05-15 17:01:21,168 - Log -INFO -   
+2024-05-15 17:01:21,185 - Log -INFO -   
+2024-05-15 17:01:21,205 - Log -INFO -   
+2024-05-15 17:01:21,237 - Log -INFO - 0035  
+2024-05-15 17:01:21,256 - Log -INFO - vara Hello01  
+2024-05-15 17:01:21,277 - Log -INFO - Chello01  
+2024-05-15 17:01:21,298 - Log -INFO -   
+2024-05-15 17:01:21,318 - Log -INFO -   
+2024-05-15 17:01:21,335 - Log -INFO -   
+2024-05-15 17:01:21,352 - Log -INFO -   
+2024-05-15 17:01:21,387 - Log -INFO - 0036  
+2024-05-15 17:01:21,407 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:21,423 - Log -INFO - Chello01  
+2024-05-15 17:01:21,443 - Log -INFO -   
+2024-05-15 17:01:21,460 - Log -INFO -   
+2024-05-15 17:01:21,475 - Log -INFO -   
+2024-05-15 17:01:21,490 - Log -INFO -   
+2024-05-15 17:01:21,520 - Log -INFO - 0040  
+2024-05-15 17:01:21,537 - Log -INFO - vara Hello01  
+2024-05-15 17:01:21,553 - Log -INFO - Chello01  
+2024-05-15 17:01:21,569 - Log -INFO -   
+2024-05-15 17:01:21,586 - Log -INFO -   
+2024-05-15 17:01:21,603 - Log -INFO -   
+2024-05-15 17:01:21,619 - Log -INFO -   
+2024-05-15 17:01:21,667 - Log -INFO - 0041  
+2024-05-15 17:01:21,716 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:21,738 - Log -INFO - Chello01  
+2024-05-15 17:01:21,759 - Log -INFO -   
+2024-05-15 17:01:21,781 - Log -INFO -   
+2024-05-15 17:01:21,800 - Log -INFO -   
+2024-05-15 17:01:21,821 - Log -INFO -   
+2024-05-15 17:01:21,862 - Log -INFO - 0044  
+2024-05-15 17:01:21,886 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:21,915 - Log -INFO - Chello01  
+2024-05-15 17:01:21,982 - Log -INFO -   
+2024-05-15 17:01:22,002 - Log -INFO -   
+2024-05-15 17:01:22,021 - Log -INFO -   
+2024-05-15 17:01:22,040 - Log -INFO -   
+2024-05-15 17:01:22,115 - Log -INFO - 0047  
+2024-05-15 17:01:22,138 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:22,160 - Log -INFO - Chello01  
+2024-05-15 17:01:22,190 - Log -INFO -   
+2024-05-15 17:01:22,210 - Log -INFO -   
+2024-05-15 17:01:22,234 - Log -INFO -   
+2024-05-15 17:01:22,256 - Log -INFO -   
+2024-05-15 17:01:22,301 - Log -INFO - 0050  
+2024-05-15 17:01:22,334 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:22,361 - Log -INFO - Chello01  
+2024-05-15 17:01:22,382 - Log -INFO -   
+2024-05-15 17:01:22,404 - Log -INFO -   
+2024-05-15 17:01:22,426 - Log -INFO -   
+2024-05-15 17:01:22,447 - Log -INFO -   
+2024-05-15 17:01:22,485 - Log -INFO - 0053  
+2024-05-15 17:01:22,511 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:22,534 - Log -INFO - Chello01  
+2024-05-15 17:01:22,555 - Log -INFO -   
+2024-05-15 17:01:22,574 - Log -INFO -   
+2024-05-15 17:01:22,595 - Log -INFO -   
+2024-05-15 17:01:22,618 - Log -INFO -   
+2024-05-15 17:01:22,657 - Log -INFO - 0056  
+2024-05-15 17:01:22,678 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:22,701 - Log -INFO - Chello01  
+2024-05-15 17:01:22,719 - Log -INFO -   
+2024-05-15 17:01:22,739 - Log -INFO -   
+2024-05-15 17:01:22,758 - Log -INFO -   
+2024-05-15 17:01:22,774 - Log -INFO -   
+2024-05-15 17:01:22,808 - Log -INFO - 0059  
+2024-05-15 17:01:22,827 - Log -INFO - Srini01 Hello01  
+2024-05-15 17:01:22,841 - Log -INFO - Chello01  
+2024-05-15 17:01:22,856 - Log -INFO -   
+2024-05-15 17:01:22,872 - Log -INFO -   
+2024-05-15 17:01:22,887 - Log -INFO -   
+2024-05-15 17:01:22,900 - Log -INFO -   
+2024-05-15 17:01:22,931 - Log -INFO - 0009  
+2024-05-15 17:01:22,948 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:22,964 - Log -INFO - Chello02  
+2024-05-15 17:01:22,982 - Log -INFO -   
+2024-05-15 17:01:22,999 - Log -INFO -   
+2024-05-15 17:01:23,020 - Log -INFO -   
+2024-05-15 17:01:23,039 - Log -INFO -   
+2024-05-15 17:01:23,081 - Log -INFO - 0012  
+2024-05-15 17:01:23,099 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:23,121 - Log -INFO - Chello02  
+2024-05-15 17:01:23,138 - Log -INFO -   
+2024-05-15 17:01:23,156 - Log -INFO -   
+2024-05-15 17:01:23,172 - Log -INFO -   
+2024-05-15 17:01:23,191 - Log -INFO -   
+2024-05-15 17:01:23,223 - Log -INFO - 0015  
+2024-05-15 17:01:23,243 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:23,260 - Log -INFO - Chello02  
+2024-05-15 17:01:23,275 - Log -INFO -   
+2024-05-15 17:01:23,290 - Log -INFO -   
+2024-05-15 17:01:23,307 - Log -INFO -   
+2024-05-15 17:01:23,321 - Log -INFO -   
+2024-05-15 17:01:23,356 - Log -INFO - 0019  
+2024-05-15 17:01:23,377 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:23,400 - Log -INFO - Chello02  
+2024-05-15 17:01:23,417 - Log -INFO -   
+2024-05-15 17:01:23,434 - Log -INFO -   
+2024-05-15 17:01:23,452 - Log -INFO -   
+2024-05-15 17:01:23,467 - Log -INFO -   
+2024-05-15 17:01:23,505 - Log -INFO - 0024  
+2024-05-15 17:01:23,522 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:23,541 - Log -INFO - Chello02  
+2024-05-15 17:01:23,558 - Log -INFO -   
+2024-05-15 17:01:23,576 - Log -INFO -   
+2024-05-15 17:01:23,596 - Log -INFO -   
+2024-05-15 17:01:23,614 - Log -INFO -   
+2024-05-15 17:01:23,649 - Log -INFO - 0027  
+2024-05-15 17:01:23,666 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:23,685 - Log -INFO - Chello02  
+2024-05-15 17:01:23,702 - Log -INFO -   
+2024-05-15 17:01:23,722 - Log -INFO -   
+2024-05-15 17:01:23,738 - Log -INFO -   
+2024-05-15 17:01:23,755 - Log -INFO -   
+2024-05-15 17:01:23,794 - Log -INFO - 0030  
+2024-05-15 17:01:23,811 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:23,829 - Log -INFO - Chello02  
+2024-05-15 17:01:23,846 - Log -INFO -   
+2024-05-15 17:01:23,862 - Log -INFO -   
+2024-05-15 17:01:23,878 - Log -INFO -   
+2024-05-15 17:01:23,894 - Log -INFO -   
+2024-05-15 17:01:23,930 - Log -INFO - 0033  
+2024-05-15 17:01:23,947 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:23,965 - Log -INFO - Chello02  
+2024-05-15 17:01:23,981 - Log -INFO -   
+2024-05-15 17:01:23,997 - Log -INFO -   
+2024-05-15 17:01:24,014 - Log -INFO -   
+2024-05-15 17:01:24,031 - Log -INFO -   
+2024-05-15 17:01:24,065 - Log -INFO - 0037  
+2024-05-15 17:01:24,083 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:24,101 - Log -INFO - Chello02  
+2024-05-15 17:01:24,120 - Log -INFO -   
+2024-05-15 17:01:24,141 - Log -INFO -   
+2024-05-15 17:01:24,162 - Log -INFO -   
+2024-05-15 17:01:24,179 - Log -INFO -   
+2024-05-15 17:01:24,220 - Log -INFO - 0042  
+2024-05-15 17:01:24,238 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:24,255 - Log -INFO - Chello02  
+2024-05-15 17:01:24,272 - Log -INFO -   
+2024-05-15 17:01:24,291 - Log -INFO -   
+2024-05-15 17:01:24,310 - Log -INFO -   
+2024-05-15 17:01:24,327 - Log -INFO -   
+2024-05-15 17:01:24,360 - Log -INFO - 0045  
+2024-05-15 17:01:24,380 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:24,397 - Log -INFO - Chello02  
+2024-05-15 17:01:24,423 - Log -INFO -   
+2024-05-15 17:01:24,443 - Log -INFO -   
+2024-05-15 17:01:24,462 - Log -INFO -   
+2024-05-15 17:01:24,480 - Log -INFO -   
+2024-05-15 17:01:24,513 - Log -INFO - 0048  
+2024-05-15 17:01:24,546 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:24,569 - Log -INFO - Chello02  
+2024-05-15 17:01:24,590 - Log -INFO -   
+2024-05-15 17:01:24,613 - Log -INFO -   
+2024-05-15 17:01:24,635 - Log -INFO -   
+2024-05-15 17:01:24,658 - Log -INFO -   
+2024-05-15 17:01:24,693 - Log -INFO - 0051  
+2024-05-15 17:01:24,711 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:24,727 - Log -INFO - Chello02  
+2024-05-15 17:01:24,743 - Log -INFO -   
+2024-05-15 17:01:24,760 - Log -INFO -   
+2024-05-15 17:01:24,776 - Log -INFO -   
+2024-05-15 17:01:24,789 - Log -INFO -   
+2024-05-15 17:01:24,840 - Log -INFO - 0054  
+2024-05-15 17:01:24,866 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:24,891 - Log -INFO - Chello02  
+2024-05-15 17:01:24,917 - Log -INFO -   
+2024-05-15 17:01:24,945 - Log -INFO -   
+2024-05-15 17:01:24,969 - Log -INFO -   
+2024-05-15 17:01:24,995 - Log -INFO -   
+2024-05-15 17:01:25,051 - Log -INFO - 0057  
+2024-05-15 17:01:25,080 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:25,113 - Log -INFO - Chello02  
+2024-05-15 17:01:25,138 - Log -INFO -   
+2024-05-15 17:01:25,162 - Log -INFO -   
+2024-05-15 17:01:25,244 - Log -INFO -   
+2024-05-15 17:01:25,266 - Log -INFO -   
+2024-05-15 17:01:25,311 - Log -INFO - 0060  
+2024-05-15 17:01:25,335 - Log -INFO - Ram02 HEllo02  
+2024-05-15 17:01:25,366 - Log -INFO - Chello02  
+2024-05-15 17:01:25,397 - Log -INFO -   
+2024-05-15 17:01:25,427 - Log -INFO -   
+2024-05-15 17:01:25,448 - Log -INFO -   
+2024-05-15 17:01:25,477 - Log -INFO -   
+2024-05-15 17:01:25,543 - Log -INFO - 0010  
+2024-05-15 17:01:25,574 - Log -INFO - Raj03 Hello03  
+2024-05-15 17:01:25,619 - Log -INFO - Chello03  
+2024-05-15 17:01:25,650 - Log -INFO -   
+2024-05-15 17:01:25,671 - Log -INFO -   
+2024-05-15 17:01:25,699 - Log -INFO -   
+2024-05-15 17:01:25,719 - Log -INFO -   
+2024-05-15 17:01:25,763 - Log -INFO - 0013  
+2024-05-15 17:01:25,782 - Log -INFO - Raj03 Hello03  
+2024-05-15 17:01:25,802 - Log -INFO - Chello03  
+2024-05-15 17:01:25,826 - Log -INFO -   
+2024-05-15 17:01:25,849 - Log -INFO -   
+2024-05-15 17:01:25,900 - Log -INFO -   
+2024-05-15 17:01:25,920 - Log -INFO -   
+2024-05-15 17:01:25,964 - Log -INFO - 0016  
+2024-05-15 17:01:25,998 - Log -INFO - Raj03 Hello03  
+2024-05-15 17:01:26,032 - Log -INFO - Chello03  
+2024-05-15 17:01:26,049 - Log -INFO -   
+2024-05-15 17:01:26,078 - Log -INFO -   
+2024-05-15 17:01:26,096 - Log -INFO -   
+2024-05-15 17:01:26,114 - Log -INFO -   
+2024-05-15 17:01:26,152 - Log -INFO - 0020  
+2024-05-15 17:01:26,173 - Log -INFO - Raj03 Hello03  
+2024-05-15 17:01:26,192 - Log -INFO - Chello03  
+2024-05-15 17:01:26,266 - Log -INFO -   
+2024-05-15 17:01:26,304 - Log -INFO -   
+2024-05-15 17:01:26,323 - Log -INFO -   
+2024-05-15 17:01:26,342 - Log -INFO -   
+2024-05-15 17:01:26,380 - Log -INFO - 0025  
+2024-05-15 17:01:26,399 - Log -INFO - Raj03 Hello03  
+2024-05-15 17:01:26,419 - Log -INFO - Chello03  
+2024-05-15 17:01:26,443 - Log -INFO -   
+2024-05-15 17:01:26,463 - Log -INFO -   
+2024-05-15 17:01:26,482 - Log -INFO -   
+2024-05-15 17:01:26,501 - Log -INFO -   
+2024-05-15 17:01:26,540 - Log -INFO - 0028  
+2024-05-15 17:01:26,560 - Log -INFO - Raj03 Hello03  
+2024-05-15 17:01:26,580 - Log -INFO - Chello03  
+2024-05-15 17:01:26,597 - Log -INFO -   
+2024-05-15 17:01:26,621 - Log -INFO -   
+2024-05-15 17:01:26,652 - Log -INFO -   
+2024-05-15 17:01:26,678 - Log -INFO -   
+2024-05-15 17:01:26,735 - Log -INFO - 0031  
+2024-05-15 17:01:26,791 - Log -INFO - Raj03 Hello03  
+2024-05-15 17:01:26,832 - Log -INFO - Chello03  
+2024-05-15 17:01:26,879 - Log -INFO -   
+2024-05-15 17:01:26,898 - Log -INFO -   
+2024-05-15 17:01:26,920 - Log -INFO -   
+2024-05-15 17:01:26,939 - Log -INFO -   
+2024-05-15 17:01:26,980 - Log -INFO - 0034  
+2024-05-15 17:01:27,000 - Log -INFO - Raj03 Hello03  
+2024-05-15 17:01:27,020 - Log -INFO - Chello03  
+2024-05-15 17:01:27,038 - Log -INFO -   
+2024-05-15 17:01:27,056 - Log -INFO -   
+2024-05-15 17:01:27,076 - Log -INFO -   
+2024-05-15 17:01:27,100 - Log -INFO -   
+2024-05-15 17:01:27,143 - Log -INFO - 0038  
+2024-05-15 17:01:27,165 - Log -INFO - Raj03 Hello03  
+2024-05-15 17:01:27,194 - Log -INFO - Chello03  
+2024-05-15 17:01:27,221 - Log -INFO -   
+2024-05-15 17:01:27,241 - Log -INFO -   
+2024-05-15 17:01:27,259 - Log -INFO -   
+2024-05-15 17:01:27,292 - Log -INFO -   
+2024-05-15 17:01:33,512 - Log -INFO - ******************Application closed successfully*********************
